@@ -20,7 +20,7 @@ This uses pretrained models and can has the ability to change the model easy usi
 ### To install run the following.
 - To install Tensorflow 1
 ```
-curl https://raw.githubusercontent.com/RattyDAVE/object-detection/master/install.sh|/bin/sh
+curl https://raw.githubusercontent.com/RattyDAVE/object-detection/master/install_manjaro.sh|/bin/sh
 ```
 
 ### To start the object detetection run the following
